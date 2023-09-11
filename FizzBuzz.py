@@ -7,4 +7,4 @@ for num in range(1,101): #extend range if needed
             print("Buzz")
     else:
         print(num)
-#####TRICK IS TO INCLUDED BOTH MULTIPLES INTIALLY#####
+#####TRICK IS TO INCLUDE BOTH MULTIPLES INTIALLY#####
